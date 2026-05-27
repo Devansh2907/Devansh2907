@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Devansh Malik
 
-### 🤖 AI/ML Enthusiast | 🧠 Deep Learning Enthusiast | 🚀 Building Intelligent Systems
+### 💻 MERN Stack Developer | 🚀 Full Stack Web Developer | ⚡ Building Scalable Web Applications
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devansh-malik-b83b48388)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Devansh2907)
@@ -12,37 +12,36 @@
 
 ## 🚀 What I'm Currently Working On
 
-- 🤖 Deep diving into **Machine Learning & Deep Learning** architectures
-- 🎨 Exploring **Generative AI** (GANs, Diffusion Models, LLMs)
-- 🧑‍💼 Building **AI Agents** with CrewAI and LangGraph
-- 🔗 Creating **Agentic AI** workflows and multi-agent systems
-- 💻 Solving **DSA problems daily** to strengthen fundamentals
-- 🔬 Experimenting with cutting-edge AI frameworks
+- 🌐 Building modern **Full Stack MERN applications**
+- ⚛️ Creating responsive UIs using **React.js & Tailwind CSS**
+- 🔥 Developing scalable backend APIs with **Node.js & Express.js**
+- 🛢️ Working with **MongoDB** for database management
+- 🔐 Implementing authentication & authorization systems
+- 💻 Solving **DSA problems daily** to improve problem-solving skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### AI/ML & Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+### 🚀 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### LLM & Agentic AI
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### 🛢️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Platforms
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -50,31 +49,33 @@
 ## 💼 Featured Projects
 
 ### 🔥 [Code Repository](https://github.com/Devansh2907/Code)
-📅 **Daily DSA Practice** - Solving Data Structures & Algorithms problems everyday to master problem-solving skills!
+📅 **Daily DSA Practice** - Solving Data Structures & Algorithms problems daily to strengthen coding and problem-solving skills.
 
-### 🚀 More Projects Coming Soon!
-Currently building exciting AI/ML projects with:
-- LangChain for LLM applications
-- CrewAI for multi-agent systems
-- FastAPI for ML model deployment
-- TensorFlow/PyTorch for deep learning models
+### 🌐 Full Stack Projects
+Currently building and deploying exciting MERN stack applications including:
+- Authentication systems with JWT
+- Real-time web applications
+- RESTful APIs with Express.js
+- Responsive React dashboards
+- CRUD applications with MongoDB
 
 ---
 
 ## 🎓 Learning Journey
 
 **Current Focus Areas:**
-- 🧠 Advanced Deep Learning architectures
-- 🎨 Generative AI and Large Language Models
-- 🤖 AI Agent development and orchestration
-- 🔄 Agentic workflows with LangGraph
-- 📊 End-to-end ML pipeline development
+- ⚛️ Advanced React.js concepts
+- 🔥 Backend architecture & API optimization
+- ☁️ Deployment & cloud hosting
+- 🔐 Secure authentication systems
+- 📦 Scalable full stack application development
 
-**Tools I'm Mastering:**
-- CrewAI for collaborative AI agents
-- LangChain for LLM applications
-- Hugging Face Transformers
-- PyTorch for research implementations
+**Currently Exploring:**
+- Next.js
+- TypeScript
+- Redis
+- Docker
+- System Design basics
 
 ---
 
@@ -90,10 +91,10 @@ Currently building exciting AI/ML projects with:
 
 ---
 
-### 💭 *"Building the future, one algorithm at a time"*
+### 💭 *"Turning ideas into scalable web applications."*
 
-⭐ **From [Devansh2907](https://github.com/Devansh2907)** - Feel free to star my repos if you find them interesting!
+⭐ **From [Devansh2907](https://github.com/Devansh2907)** — Feel free to explore and star my repositories!
 
-**Last Updated:** January 2026 🚀
+**Last Updated:** May 2026 🚀
 
 </div>
